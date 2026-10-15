@@ -1,0 +1,4 @@
+repository "design_project@MCV01@cloud"
+  path "/"
+    br "/main"
+    co "/main"
